@@ -11,10 +11,14 @@ describe("TestFizzBuzz", () => {
     expect(fizzbuzz(5)).toEqual("Buzz");
   });
 
+  it("fizzbuzz deberia devolver Fizz si es el numero 9 (multiplo de 3)", () => {
+    expect(fizzbuzz(9)).toEqual("Fizz");
+  });
+
 });
 
 function fizzbuzz(n) {
-    if(n == 3){
+    if(n%3 == 0){
         return "Fizz";
     }
     if(n == 5){
