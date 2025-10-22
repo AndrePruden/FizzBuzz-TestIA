@@ -15,13 +15,17 @@ describe("TestFizzBuzz", () => {
     expect(fizzbuzz(9)).toEqual("Fizz");
   });
 
+  it("fizzbuzz deberia devolver Buzz si es el numero 10 (multiplo de 5)", () => {
+    expect(fizzbuzz(5)).toEqual("Buzz");
+  });
+
 });
 
 function fizzbuzz(n) {
     if(n%3 == 0){
         return "Fizz";
     }
-    if(n == 5){
+    if(n%5 == 0){
         return "Buzz";
     }
     return n.toString();
