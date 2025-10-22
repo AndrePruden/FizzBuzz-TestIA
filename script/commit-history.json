@@ -1,0 +1,40 @@
+[
+  {
+    "sha": "89ddd0e7a27b0a98f006e0eb63a410a7ff26fdd3",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-09-25T15:48:30.000Z",
+      "message": "primera prueba",
+      "url": "https://github.com/israelantezana/FizzbuzzzTDDTallerp1/commit/89ddd0e7a27b0a98f006e0eb63a410a7ff26fdd3"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2025-09-25"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2025-09-25T15:51:58.000Z",
+      "message": "prueba fallando",
+      "url": "https://github.com/israelantezana/FizzbuzzzTDDTallerp1/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 4,
+      "deletions": 0,
+      "date": "2025-09-25"
+    },
+    "coverage": 100,
+    "test_count": 3,
+    "failed_tests": 1,
+    "conclusion": "failure"
+  }
+]
