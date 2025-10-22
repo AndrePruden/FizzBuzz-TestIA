@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "fff711129cee012e21e2d6f9adaebdfc8f4a6057",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2025-09-25T15:51:58.000Z",
       "message": "prueba fallando",
-      "url": "https://github.com/israelantezana/FizzbuzzzTDDTallerp1/commit/HEAD"
+      "url": "https://github.com/israelantezana/FizzbuzzzTDDTallerp1/commit/fff711129cee012e21e2d6f9adaebdfc8f4a6057"
     },
     "stats": {
       "total": 4,
@@ -36,5 +36,24 @@
     "test_count": 3,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlos Prudencio",
+    "commit": {
+      "date": "2025-10-22T02:48:26.000Z",
+      "message": "Devuelve Fizz para numero 3",
+      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/HEAD"
+    },
+    "stats": {
+      "total": 34,
+      "additions": 10,
+      "deletions": 24,
+      "date": "2025-10-22"
+    },
+    "coverage": 0,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
