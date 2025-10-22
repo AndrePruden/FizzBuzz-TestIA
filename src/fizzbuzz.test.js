@@ -19,15 +19,23 @@ describe("TestFizzBuzz", () => {
     expect(fizzbuzz(5)).toEqual("Buzz");
   });
 
+  it("fizzbuzz deberia devolver FizzBuzz si es el numero 15", () => {
+    expect(fizzbuzz(15)).toEqual("FizzBuzz");
+  });
+
 });
 
 function fizzbuzz(n) {
+    if(n==15){
+        return "FizzBuzz";
+    }
     if(n%3 == 0){
         return "Fizz";
     }
     if(n%5 == 0){
         return "Buzz";
     }
+    
     return n.toString();
   
 }
