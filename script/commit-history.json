@@ -38,12 +38,12 @@
     "conclusion": "failure"
   },
   {
-    "sha": "HEAD",
+    "sha": "94a6d3e249e1b617887ddb9685581bcbfa8965e4",
     "author": "Carlos Prudencio",
     "commit": {
       "date": "2025-10-22T02:48:26.000Z",
       "message": "Devuelve Fizz para numero 3",
-      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/HEAD"
+      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/94a6d3e249e1b617887ddb9685581bcbfa8965e4"
     },
     "stats": {
       "total": 34,
@@ -53,6 +53,25 @@
     },
     "coverage": 0,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlos Prudencio",
+    "commit": {
+      "date": "2025-10-22T02:53:30.000Z",
+      "message": "Devuelve el mismo numero en caso de no ser multiplo de 3",
+      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/HEAD"
+    },
+    "stats": {
+      "total": 10,
+      "additions": 9,
+      "deletions": 1,
+      "date": "2025-10-22"
+    },
+    "coverage": 0,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }
