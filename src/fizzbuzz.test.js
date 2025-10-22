@@ -23,10 +23,14 @@ describe("TestFizzBuzz", () => {
     expect(fizzbuzz(15)).toEqual("FizzBuzz");
   });
 
+  it("fizzbuzz deberia devolver FizzBuzz si es el numero 30 (multiplo de ambos, de 3 y de 5)", () => {
+    expect(fizzbuzz(30)).toEqual("FizzBuzz");
+  });
+
 });
 
 function fizzbuzz(n) {
-    if(n==15){
+    if(n%3==0 && n%5 == 0){
         return "FizzBuzz";
     }
     if(n%3 == 0){
