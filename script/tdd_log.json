@@ -1,0 +1,163 @@
+[
+  {
+    "numPassedTests": 0,
+    "failedTests": 1,
+    "numTotalTests": 1,
+    "timestamp": 1761101262274,
+    "success": false
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1761101276901,
+    "success": true
+  },
+  {
+    "commitId": "63e06ce9b60556f42ee7981c4504fed2d57333cd",
+    "commitName": "Devuelve Fizz para numero 3",
+    "commitTimestamp": 1761101307681
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1761101359255,
+    "success": false
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1761101432760,
+    "success": false
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1761101580877,
+    "success": true
+  },
+  {
+    "commitId": "e1432090f6ab4815a640d41ac3a7688e998a14ec",
+    "commitName": "Devuelve el mismo numero en caso de no ser multiplo de 3",
+    "commitTimestamp": 1761101610980
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1761101653796,
+    "success": false
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1761101674990,
+    "success": true
+  },
+  {
+    "commitId": "a14530c9f170c246b4237b19acf86d585bd2a763",
+    "commitName": "Devuelve Buzz en caso de ser 5",
+    "commitTimestamp": 1761101700541
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1761101728856,
+    "success": false
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1761101742065,
+    "success": true
+  },
+  {
+    "commitId": "ba1ea2e0ba43c908b2b889f274121574dc31743d",
+    "commitName": "Devuelve Fizz en todos los casos multiplos de 3",
+    "commitTimestamp": 1761101767285
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1761101786459,
+    "success": false
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1761101796924,
+    "success": false
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1761101812530,
+    "success": true
+  },
+  {
+    "commitId": "736aab92b2e7a2dd66ba0b8c782cf8382f51a994",
+    "commitName": "Devuelve Buzz en todos los casos multiplos de 5",
+    "commitTimestamp": 1761101836885
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1761101871359,
+    "success": false
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1761101915365,
+    "success": false
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1761101925884,
+    "success": false
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1761101934385,
+    "success": true
+  },
+  {
+    "commitId": "99839bed96915a419debc06c4c6b8fde629bddf4",
+    "commitName": "Devuelve FizzBuzz en caso de ser 15",
+    "commitTimestamp": 1761101953902
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1761101975840,
+    "success": false
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1761101991553,
+    "success": true
+  },
+  {
+    "commitId": "47ccf120644736d00efebf90bf9b0ced26935e05",
+    "commitName": "Devuelve FizzBuzz en caso de ser multiplo de 3 y de 5",
+    "commitTimestamp": 1761102005415
+  }
+]

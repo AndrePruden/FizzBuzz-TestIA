@@ -152,18 +152,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9f08bf510be8a72f6a1d7f1fc7b3a6fd535943e5",
     "author": "Carlos Prudencio",
     "commit": {
       "date": "2025-10-22T03:00:04.000Z",
       "message": "Devuelve FizzBuzz en caso de ser multiplo de 3 y de 5",
-      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/HEAD"
+      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/9f08bf510be8a72f6a1d7f1fc7b3a6fd535943e5"
     },
     "stats": {
       "total": 6,
       "additions": 5,
       "deletions": 1,
       "date": "2025-10-22"
+    },
+    "coverage": 0,
+    "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Carlos Prudencio",
+    "commit": {
+      "date": "2025-11-05T15:37:08.000Z",
+      "message": "Se quito el tddlog del gitignore",
+      "url": "https://github.com/AndrePruden/FizzBuzz-TestIA/commit/HEAD"
+    },
+    "stats": {
+      "total": 164,
+      "additions": 163,
+      "deletions": 1,
+      "date": "2025-11-05"
     },
     "coverage": 0,
     "test_count": 7,
